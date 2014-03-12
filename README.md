@@ -60,5 +60,6 @@ Prerequisites
 Credits
 -------------
 
-https://github.com/mlex/jmeter-maven-example/
+https://github.com/mlex/jmeter-maven-example
+
 https://github.com/pofallon/jersey2-akka-java
