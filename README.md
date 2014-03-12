@@ -55,3 +55,10 @@ Prerequisites
 -------------
 * JDK 7.x
 * Maven 3.x
+* 
+
+Credits
+-------------
+
+https://github.com/mlex/jmeter-maven-example/
+https://github.com/pofallon/jersey2-akka-java
